@@ -1,0 +1,27 @@
+{
+  "name": "diabolo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "sequelize": "^6.33.0",
+    "standard": "^17.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "sequelize-cli": "^6.6.1",
+    "tailwindcss": "latest"
+  }
+}
